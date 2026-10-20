@@ -8,3 +8,6 @@
 
 /* Highlighted professional profiles */
 .social-highlight{border:1px solid transparent;color:#fff;box-shadow:0 8px 24px rgba(0,0,0,.12);font-weight:700}.linkedin-highlight{background:linear-gradient(115deg,#0a66c2,#2787df);border-color:rgba(112,181,255,.65)}.blog-highlight{background:linear-gradient(115deg,#7b3fe4,#a855f7);border-color:rgba(205,167,255,.75)}.social-highlight:hover{filter:brightness(1.1);box-shadow:0 12px 30px rgba(76,65,190,.24)}.contact-section .linkedin-highlight{background:linear-gradient(115deg,#0a66c2,#2787df)}.contact-section .blog-highlight{background:linear-gradient(115deg,#7b3fe4,#a855f7)}
+
+/* Highlighted email contact */
+.email-highlight{background:linear-gradient(115deg,#0f9f8f,#28b99b);border-color:rgba(123,242,218,.75);color:#fff}.email-highlight:hover{filter:brightness(1.08);box-shadow:0 12px 30px rgba(15,159,143,.24)}.email-text-highlight{display:inline-block;padding:4px 10px;border:1px solid rgba(86,214,197,.45);border-radius:7px;background:rgba(31,160,143,.13);color:#8be8d7!important;font-weight:700}
